@@ -8,8 +8,8 @@ Log in as root using sudo su
 Step 02
 run script using python 2 or python 3
 ----------------------------------------
-Step 03
-If you are in virtual box , your internet wll down. so change network adapter to NAT then it will be ok.
+**Step 03
+If you are in virtual box , your internet wll down. so change network adapter to NAT then it will be ok.**
 
 
 Enjoy :)
